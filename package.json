@@ -17,7 +17,7 @@
     "chai": "4.2.0",
     "faker": "4.1.0",
     "log4js": "^4.3.1",
-    "mocha": "6.1.4",
+    "mocha": "10.2.0",
     "request": "2.88.0",
     "request-promise-native": "1.0.7",
     "ts-node": "^8.1.0",
